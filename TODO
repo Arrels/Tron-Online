@@ -1,0 +1,18 @@
+TODO:
+
+-Implement a singleton in Application class. Consider making a
+ singleton class.
+-Create a Makefile that doesn't require to be updated.
+-Consider creating abstract classes and subclasses for:
+ Application
+ Player
+-Create a coding guidelines document.
+-Use a static analysis tool before pushing files to repo.
+-Implement factory pattern (candidates: application, player, map).
+
+Notes:
+Much of the code from Application has been copied from
+tutorials. I would like to change this so we only have original
+code.
+
+

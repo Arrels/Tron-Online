@@ -1,0 +1,3 @@
+If compiling on Windows with MinGW, it is preferred to use MinGW
+shell instead of cmd.
+ 

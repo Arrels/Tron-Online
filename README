@@ -1,3 +1,25 @@
+
+Compilation instructions (Windows):
+1)Download MinGW installer. Launch and it will ask you to
+  which components do you want to install. I chose:
+  -C Compiler
+  -C++ Compiler
+  -MSYS Basic System
+  -MinGW Developer Toolkit
+
+  I installed MinGW in C:\MinGW
+
+2)Download and build Allegro 5. This tutorial can give you
+  pointers on how to build Allegro:
+
+  http://www.allegro.cc/forums/thread/606041
+
+  I did not install Code Blocks.
+
+3)Copy allegro include and lib folders to C:\MinGW.
+
+4)Go to Tron folder, and run make.
+
 If compiling on Windows with MinGW, it is preferred to use MinGW
 shell instead of cmd.
- 
+

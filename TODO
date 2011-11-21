@@ -4,7 +4,6 @@ TODO:
  singleton class.
 -Create a Makefile that doesn't require to be updated.
 -Consider creating abstract classes and subclasses for:
- Application
  Player
 -Create a coding guidelines document.
 -Use a static analysis tool before pushing files to repo.

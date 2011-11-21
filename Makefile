@@ -6,8 +6,8 @@
 ################################################################
 
 CC      = g++
-CFLAGS  = -c -Wall -Werror -Isrc/include
-LDFLAGS = -lliballegro
+CFLAGS  = -c -Wall -Isrc/include
+LDFLAGS = -lliballegro -lliballegro_dialog
 OBJECTS = obj/main.o \
           obj/application.o
 
